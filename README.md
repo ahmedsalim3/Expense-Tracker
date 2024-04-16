@@ -1,7 +1,9 @@
 # FINANCIAL EXPENSE TRACKER
+
+This repository hosts the source code for a <a href="https://amedsalim.github.io/Expense-Tracker/">Financial Expense Tracker</a> web application. It enables users to conveniently manage their financial transactions.
+
 ![FET](https://github.com/amedsalim/Expense-Tracker/assets/126220185/fa74bf6a-59bd-4ee2-8fa0-17d6b42cdfc1)
 <h6 align="center">View (<a href="https://amedsalim.github.io/Expense-Tracker/">live demonstration</a>)</h6>
-This repository hosts the source code for a <a href="https://amedsalim.github.io/Expense-Tracker/">Financial Expense Tracker</a> web application. It enables users to conveniently manage their financial transactions.
 
 ## Features
 - **Add New Data:** Input new expenses or income by specifying the account, category, transaction type, amount, and description.
