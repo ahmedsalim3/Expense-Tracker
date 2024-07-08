@@ -1,11 +1,6 @@
-# FINANCIAL EXPENSE TRACKER
+# FINANCIAL EXPENSE TRACKER <img src="https://hits.sh/github.com/amedsalim/Text-to-SQL-Generator.svg?label=views&color=green"></a>
 
 This repository hosts the source code for a <a href="https://amedsalim.github.io/Expense-Tracker/">Financial Expense Tracker</a> web application. It enables users to conveniently manage their financial transactions.
-
-<p align= "center">
-<img src="https://img.shields.io/github/stars/amedsalim/Expense-Tracker?style=flat&color=green"></a>
-<img src="https://hits.sh/github.com/amedsalim/Text-to-SQL-Generator.svg?label=views&color=green"></a>
-</p>
 
 <div align="center">
   
