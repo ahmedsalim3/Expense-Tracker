@@ -37,5 +37,3 @@ This repository hosts the source code for a <a href="https://Ahmeds-Data.github.
 - Click the "Submit" button to add the transaction. To view your financial data, click the "Show Data" button. _Note: Replace the Google Sheets link in [Line 59](https://github.com/amedsalim/Expense-Tracker/blob/485e6c66240e63e37c4f38c8b5e06514f37e4996/index.html#L59) with your own Google Sheets document link._
 - Create a new dashboard in <a href="https://lookerstudio.google.com/u/0/">Looker studio</a> and connect your data to report via **Google Sheets** or **BigQuery** connectors.
 
-> For the full code of the FET application, please refer to this [**repository**](https://github.com/ahmeds-data/Expense-Tracker).
-{: .prompt-info }
